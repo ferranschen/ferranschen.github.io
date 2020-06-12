@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Engineering, National Sun Yat-sen University, 2011-2015
+* M.S. in Computer Science and Engineering, National Sun Yat-sen University, 2015-2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 - present: Android C++ Engineer
+  * Realtek Semiconductor corp
+  * Duties in
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015 - 2017: Research Assistant
+  * Information Security Laboratory in National Sun Yat-sen University.
+
+* 2015 - 2017: Teacher Assistant
+  * Information Security Laboratory in National Sun Yat-sen University.
  
 Publication
 =====
