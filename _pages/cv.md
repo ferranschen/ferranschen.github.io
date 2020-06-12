@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Engineering, National Sun Yat-sen University, 2011-2015
-* M.S. in Computer Science and Engineering, National Sun Yat-sen University, 2015-2017
+* B.S. in Computer Science and Engineering, National Sun Yat-sen University, 2015
+* M.S. in Computer Science and Engineering, National Sun Yat-sen University, 2017
 
 Work experience
 ======
@@ -28,5 +28,7 @@ Work experience
  
 Publication
 =====
-
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
