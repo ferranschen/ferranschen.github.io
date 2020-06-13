@@ -15,8 +15,9 @@ Education
 ======
 * B.S. in Computer Science and Engineering, National Sun Yat-sen University, 2015
 * M.S. in Computer Science and Engineering, National Sun Yat-sen University, 2017
-  * Supervisor: Chun-I Fan
   * Thesis: Efficient Key-Aggregate Proxy Re-Encryption for Secure Data Sharing in Clouds
+  * Supervisor: Chun-I Fan
+
 
 Work experience
 ======
