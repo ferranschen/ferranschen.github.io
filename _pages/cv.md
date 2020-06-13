@@ -26,7 +26,8 @@ Work experience
 * Research Assistant, NSYSU Information Security Laboratory, 2015 - 2017 
 * Summer Information Security Intern, QNAP corp, 2016 Summer
   * Test the security vulnerabilities of the provided APPs in QNAP's NAS
-  * Divide Vlan and Trunking using Cisco Catalyst 2950 Switch
+  * Set Vlan and Trunking using Cisco Catalyst 2950 Switch
+  * Use Metasploit and John the Ripper to access user's password [video]()
 * Teacher Assistant in Digital System Design, NSYSU, 2014
 
 Honor
