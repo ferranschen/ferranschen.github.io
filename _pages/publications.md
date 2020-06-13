@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+---
+
 Journal
 =====
 * **W. Chen**, C. Fan and Y. Tseng, "CCA-Secure Key-Aggregate Proxy Re-Encryption for Secure Cloud Storage" 2020 IEEE Transactions on Signal and Information Processing over Networks (Submitted)
