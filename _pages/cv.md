@@ -15,35 +15,25 @@ Education
 ======
 * B.S. in Computer Science and Engineering, National Sun Yat-sen University, 2015
 * M.S. in Computer Science and Engineering, National Sun Yat-sen University, 2017
+  * Supervisor: Chun-I Fan
+  * Thesis: Efficient Key-Aggregate Proxy Re-Encryption for Secure Data Sharing in Clouds
 
 Work experience
 ======
-* R&D Engineer
-  * Realtek Semiconductor corp
-  * 2017 - present
+* R&D Engineer, Realtek Semiconductor corp, 2017 - present
+  * Android TV C++ middleware develepment
 
-* National Sun Yat-sen University Information Security Laboratory 
-  * Research Assistant, 2015 - 2017
-  * Teacher Assistant in Digital System Design, 2014
+* Research Assistant, NSYSU Information Security Laboratory, 2015 - 2017 
+* Teacher Assistant in Digital System Design, NSYSU, 2014
 
-* Summer Information Security Intern: 
-  * QNAP corp
-  * 2016 Summer
+* Summer Information Security Intern, QNAP corp, 2016 Summer
+
  
-Publication
-=====
-
-Journal
+Other
 ======
-* **W. Chen**, C. Fan and Y. Tseng, "CCA-Secure Key-Aggregate Proxy Re-Encryption for Secure Cloud Storage" 2020 IEEE Transactions on Signal and Information Processing over Networks (Submitted)
+* Graduation thematic competition, Grand Prize
+  * Depth Estimation of 2D Images Enhanced with Feature Points and Its Application to Multi-view Synthesis of 3D Images
+  * Supervisor: Shen-Fu Hsiao
 
-Conference
-=====
 
-* **W. Chen**, C. Fan and Y. Tseng, "Efficient Key-Aggregate Proxy Re-Encryption for Secure Data Sharing in Clouds," 2018 IEEE Conference on Dependable and Secure Computing (DSC), Kaohsiung, Taiwan, 2018, pp. 1-4, doi: 10.1109/DESEC.2018.8625149.
-
-Patent
-=====
-
-* **W. Chen** "Multichannel Television Sound Detector"
 
