@@ -35,7 +35,7 @@ Honor
   
 Certificate
 ======
-* edX, Linear Algebra - Foundations to Frontiers
-* https://courses.edx.org/certificates/418357e1c71b446fb64ca7e007551755
+* EDX
+  *  UT Austin, [Linear Algebra - Foundations to Frontiers](https://courses.edx.org/certificates/418357e1c71b446fb64ca7e007551755)
 
 
