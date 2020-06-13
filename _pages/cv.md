@@ -27,7 +27,7 @@ Work experience
 * Summer Information Security Intern, QNAP corp, 2016 Summer
   * Test the security vulnerabilities of the provided APPs in QNAP's NAS
   * Set Vlan and Trunking using Cisco Catalyst 2950 Switch
-  * Use Metasploit and John the Ripper to access user's password [[video]]()
+  * Use Metasploit and John the Ripper to access user's password on NAS [[video]]()
 * Teacher Assistant in Digital System Design, NSYSU, 2014
 
 Honor
