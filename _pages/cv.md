@@ -25,6 +25,8 @@ Work experience
   * Android TV C++ middleware develepment
 * Research Assistant, NSYSU Information Security Laboratory, 2015 - 2017 
 * Summer Information Security Intern, QNAP corp, 2016 Summer
+  * Test the security vulnerabilities of the provided APPs in QNAP's NAS
+  * Divide Vlan and Trunking using Cisco Catalyst 2950 Switch
 * Teacher Assistant in Digital System Design, NSYSU, 2014
 
 Honor
