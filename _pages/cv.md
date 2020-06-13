@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 Education
 ======
 * B.S. in Computer Science and Engineering, National Sun Yat-sen University, 2015
