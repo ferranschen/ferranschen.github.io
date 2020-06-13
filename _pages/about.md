@@ -21,6 +21,6 @@ I am mainly responsible for developing Android C++ middleware. This part primari
 
 # Research Interests
 * Cryptography
-* CyberSecurity
-* Android Security
+* Information Security
+
 
