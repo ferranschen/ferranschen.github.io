@@ -18,15 +18,17 @@ Education
 
 Work experience
 ======
-* 2017 - present: Android C++ Engineer
+* R&D Engineer
   * Realtek Semiconductor corp
-  * Duties in
+  * 2017 - present
 
-* 2015 - 2017: Research Assistant
-  * Information Security Laboratory in National Sun Yat-sen University.
+* National Sun Yat-sen University Information Security Laboratory 
+  * Research Assistant, 2015 - 2017
+  * Teacher Assistant in Digital System Design, 2014
 
-* 2015 - 2017: Teacher Assistant
-  * Information Security Laboratory in National Sun Yat-sen University.
+* Summer Information Security Intern: 
+  * QNAP corp
+  * 2016 Summer
  
 Publication
 =====
