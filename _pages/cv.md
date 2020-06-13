@@ -26,11 +26,15 @@ Work experience
 * Summer Information Security Intern, QNAP corp, 2016 Summer
 * Teacher Assistant in Digital System Design, NSYSU, 2014
 
-Other
+Honor
 ======
 * Graduation thematic competition, Grand Prize
   * Project: Depth Estimation of 2D Images Enhanced with Feature Points and Its Application to Multi-view Synthesis of 3D Images
   * Supervisor: Shen-Fu Hsiao
-
+  
+Certificate
+======
+* edX, Linear Algebra - Foundations to Frontiers
+* https://courses.edx.org/certificates/418357e1c71b446fb64ca7e007551755
 
 
