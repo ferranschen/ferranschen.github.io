@@ -29,7 +29,7 @@ Work experience
 Other
 ======
 * Graduation thematic competition, Grand Prize
-  * Depth Estimation of 2D Images Enhanced with Feature Points and Its Application to Multi-view Synthesis of 3D Images
+  * Project: Depth Estimation of 2D Images Enhanced with Feature Points and Its Application to Multi-view Synthesis of 3D Images
   * Supervisor: Shen-Fu Hsiao
 
 
