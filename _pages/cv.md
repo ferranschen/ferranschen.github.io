@@ -23,6 +23,8 @@ Work experience
 ======
 * R&D Engineer, Realtek Semiconductor corp, 2017 - present
   * Android TV C++ middleware develepment
+  * Maintain and test Analog TV/HDMI/YPP/AV/VGA source play/change's stability
+  * Edit HDMI 1.4/2.0 EDID
 * Research Assistant, NSYSU Information Security Laboratory, 2015 - 2017 
 * Summer Information Security Intern, QNAP corp, 2016 Summer
   * Test the security vulnerabilities of the provided APPs in QNAP's NAS
