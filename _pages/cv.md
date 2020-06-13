@@ -22,13 +22,10 @@ Work experience
 ======
 * R&D Engineer, Realtek Semiconductor corp, 2017 - present
   * Android TV C++ middleware develepment
-
 * Research Assistant, NSYSU Information Security Laboratory, 2015 - 2017 
+* Summer Information Security Intern, QNAP corp, 2016 Summer
 * Teacher Assistant in Digital System Design, NSYSU, 2014
 
-* Summer Information Security Intern, QNAP corp, 2016 Summer
-
- 
 Other
 ======
 * Graduation thematic competition, Grand Prize
