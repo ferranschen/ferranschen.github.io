@@ -19,4 +19,4 @@ Conference
 Patent
 =====
 
-* **W. Chen** "Multichannel Television Sound Detector"
+* **W. Chen** "Multichannel Television Sound Detector for Analog TV" (To appear)
